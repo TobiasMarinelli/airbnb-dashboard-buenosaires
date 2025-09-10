@@ -24,7 +24,8 @@ Este proyecto analiza datos de Airbnb en la Ciudad de Buenos Aires, explorando l
 - Capturas del dashboard en formato `.png`.
 
 ## 🖼️ Vista previa
-![Dashboard Airbnb Buenos Aires](screenshot.png)
+![Dashboard Airbnb Buenos Aires]<img width="1401" height="854" alt="Screenshot 2025-09-02 170926" src="https://github.com/user-attachments/assets/ff68e064-f612-4590-8002-e877600d28df" />
+
 
 ## 📥 Descargar el Dashboard
 El archivo en Power BI (.pbix) está disponible aquí:  
